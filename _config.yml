@@ -1,0 +1,14 @@
+layout_spectrum: 0.5837809
+typography_spectrum: 0.9393115
+color:
+  saturation: 0.1223264
+  lightness: 0.6241006
+  brandStrength: 0.4607931
+  brandColors:
+    - '#4A4A4B'
+    - '#020102'
+    - '#767779'
+    - '#8099DF'
+    - '#435BA3'
+  rhythmicContrast: 0.9965347
+name: Posner
